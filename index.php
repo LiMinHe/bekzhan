@@ -24,7 +24,7 @@
 <pre><h2>Info: I live in Bishkek. 17 years old</h2></pre>                  
 <pre><h2>Phone number: 0501408508</h2></pre>
 <pre><h2>Hobby: I play football and basketball
-
+<img src="index.jpeg"
 <pre><h1;">
 </body>
 </html>
