@@ -1,6 +1,12 @@
 <html>
 <body>
      <style>
+          body {
+               background: #573ed3 url(csc-20a/kyrgyzstanflag.jpg); /*Цвет фона и путь к файлу */
+               color: #fff; /*Цвет текста*/
+          }
+          </style>
+     <style>
      .rihgtimg{
            float: right;
            marging: 7px 0 7px 7px;
