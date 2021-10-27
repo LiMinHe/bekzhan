@@ -1,13 +1,24 @@
-<!DOCTYPE html>
 <html>
 <body>
+     <style>
+     .rihgtimg{
+           float: right;
+           marging: 7px 0 7px 7px;
+     }   
+     
+     
+     
+     
+     
+     
+     
+</style>     
+<pre><h1 syle="text-align: center;">                                         my Portofolio:
+<pre><h2>Name:  Adinur</h2></pre>
+<pre><h2>Info: I live in Bishkek. 17 years old</h2></pre>                  
+<pre><h2>Phone number: 0558559989</h2></pre>
+<img src="index.jpg" alt="">
 
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
-
-<p style="background-color:Tomato;">
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-</p>
-
+<pre><h1;">
 </body>
 </html>
