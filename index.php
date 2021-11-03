@@ -51,7 +51,7 @@
 </tr>
 
 <tr>
-<td ><input type="Remember me"></td>
+<td ><input type="Reset"></td>
 <td><input type="submit" onclick="return check(this.form)" value="Login"></td>
 </tr>
 
