@@ -41,13 +41,13 @@
 </tr>
 
 <tr>
-<td>Username:</td>Bekjan
+<td>Username:</td>
 <td><input type="text" size=25 name="userid"></td>
 </tr>
 	
 <tr>
 <td>Password:</td>
-<td><input type="Password" size=25 name="pwd"></td>123456
+<td><input type="Password" size=25 name="pwd"></td>
 </tr>
 
 <tr>
