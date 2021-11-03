@@ -28,7 +28,6 @@
 <pre><h1;">
 </body>
 </html>
-bek.php
 <html>
 <head>
 <title>Login Page</title>
@@ -46,6 +45,10 @@ bek.php
 <td><input type="text" size=25 name="userid"></td>
 </tr>
 
+<tr>
+<tr>Remember me:</td>
+<tr>
+     
 <tr>
 <td>Password:</td>
 <td><input type="Password" size=25 name="pwd"></td>
