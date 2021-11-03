@@ -62,7 +62,7 @@
 <script language="javascript">
 function check(form)
 {
-if(form.userid.value == "Roseindia" && form.pwd.value == "Roseindia")
+if(form.userid.value == "bee" && form.pwd.value == "123")
 {
 	return true;
 }
