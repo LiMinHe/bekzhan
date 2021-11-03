@@ -44,18 +44,14 @@
 <td>Username:</td>
 <td><input type="text" size=25 name="userid"></td>
 </tr>
-
-<tr>
-<tr>Remember me:</td>
-<tr>
-     
+	
 <tr>
 <td>Password:</td>
 <td><input type="Password" size=25 name="pwd"></td>
 </tr>
 
 <tr>
-<td ><input type="Reset"></td>
+<td ><input type="Remember me"></td>
 <td><input type="submit" onclick="return check(this.form)" value="Login"></td>
 </tr>
 
