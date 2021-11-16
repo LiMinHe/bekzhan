@@ -2,7 +2,7 @@
 <body>
      <style>
           body {
-               background: #D125075E url(csc-20a/kyrgyzstanflag.jpg); /*Цвет фона и путь к файлу */
+               background-image: url(be.jpg); /*Цвет фона и путь к файлу */
                color: #fff; /*Цвет текста*/
           }
           </style>
