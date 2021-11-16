@@ -2,7 +2,7 @@
 <body>
      <style>
           body {
-               background-color: rgb(225, 55, 231)); /*Цвет фона и путь к файлу */
+               background-color: rgb(116, 3, 3)(225, 55, 231)); /*Цвет фона и путь к файлу */
                color: rgb(0, 0, 0); /*Цвет текста*/
           }
           </style>
@@ -28,3 +28,4 @@
 <pre><h1;">
 </body>
 </html>
+     
