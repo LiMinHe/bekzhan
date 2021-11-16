@@ -2,7 +2,7 @@
 <body>
      <style>
           body {
-               background-image: url(be.jpg); /*Цвет фона и путь к файлу */
+               background-color: aqua); /*Цвет фона и путь к файлу */
                color: rgb(0, 0, 0); /*Цвет текста*/
           }
           </style>
