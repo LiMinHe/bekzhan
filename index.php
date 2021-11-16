@@ -3,7 +3,7 @@
      <style>
           body {
                background-image: url(be.jpg); /*Цвет фона и путь к файлу */
-               color: rgb(243, 4, 4); /*Цвет текста*/
+               color: rgb(0, 0, 0); /*Цвет текста*/
           }
           </style>
      <style>
