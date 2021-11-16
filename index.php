@@ -20,8 +20,8 @@
      
 </style>     
 <pre><h1 syle="text-align: center;">                                         About me:
-<pre><h2>Name:  Bekjan Myrzaev</h2></pre>
-<pre><h2>Info: I live in Bishkek. 17 years old</h2></pre>                  
+<pre><h2>Name:  Bekjan Myrzaev Bolotbekovich</h2></pre>
+<pre><h2>Info: I live in Bishkek. 17 years old. Born in Yssyk-Kul, 1 march 2004</h2></pre>                  
 <pre><h2>Phone number: 0501408508</h2></pre>
 <pre><h2>Hobby: I'm play football and basketball
 <img src="sisa.jpg" alt="Anime" class="mev">
