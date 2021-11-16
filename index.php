@@ -2,7 +2,7 @@
 <body>
      <style>
           body {
-               background-color: rgb(116, 3, 3)(225, 55, 231)); /*Цвет фона и путь к файлу */
+               background #fff url(be.jpg); /*Цвет фона и путь к файлу */
                color: rgb(0, 0, 0); /*Цвет текста*/
           }
           </style>
@@ -19,7 +19,7 @@
      
      
 </style>     
-<pre><h1 syle="text-align: center;">                                        Portfolio:
+<pre><h1 syle="text-align: center;">                                        PORTFOLIO:
 <pre><h2>Name:  Bekjan Myrzaev Bolotbekovich</h2></pre>
 <pre><h2>About me: I live in Bishkek. 17 years old. Born in Yssyk-Kul, 1st march 2004</h2></pre>                  
 <pre><h2>Phone number: 0501408508</h2></pre>
@@ -28,4 +28,3 @@
 <pre><h1;">
 </body>
 </html>
-     
