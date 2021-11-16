@@ -2,7 +2,7 @@
 <body>
      <style>
           body {
-               background-color: aqua); /*Цвет фона и путь к файлу */
+               background-color: rgb(225, 55, 231)); /*Цвет фона и путь к файлу */
                color: rgb(0, 0, 0); /*Цвет текста*/
           }
           </style>
